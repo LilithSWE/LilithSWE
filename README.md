@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LilithSWE
-- 👀 I’m interested in Frontend Webdevelopment
-- 🌱 I’m currently learning HTML/CSS/JavaScript
-- 💞️ I’m looking to find contacts in the IT world and find internships in Gothenburg or remotely
-- 📫 How to reach me email me at amanda9307@gmail.com
+- 👋 Hi, I’m Amanda!
+- 👀 I’m interested in Frontend and Backend Webdevelopment
+- 🌱 I’m currently learning HTML/CSS/JavaScript - vue/TypeScript/Node.js
+- 💞️ I’m looking to find contacts in the IT world and find internships in Gothenburg or Trondheim
+- 📫 How to reach me: amanda9307@gmail.com
 
 <!---
 LilithSWE/LilithSWE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
